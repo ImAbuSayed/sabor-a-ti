@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sabor a ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-ti/) |
+| **Get License** | [Commercial Licensing for Sabor a ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0a23160df1acc9cdd1135aa4fa7ae30b7ff6bfeb854c5bc74c2addaa104abb28` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

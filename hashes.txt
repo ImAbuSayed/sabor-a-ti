@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sabor a ti
+
+This log tracks the cryptographic history and versioning for the song **Sabor a ti** (sabor-a-ti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:41:37.317579 | `v1` | `0a23160df1acc9cdd1135aa4fa7ae30b7ff6bfeb854c5bc74c2addaa104abb28` | `db838b5aa258f84c08264043c694ddd50170ce67f1b38e2c1e138bb6c2e99227` | `2026-06-15_sabor-a-ti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
