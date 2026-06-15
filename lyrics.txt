@@ -1,1 +1,96 @@
-[Clean lyric will be pushed here]
+lyrics = """
+Mami, la noche entera huele a ti.. yeah, yeah..
+Buscando en otra' boca' lo que perdí
+Pero ninguna tiene ese mismo sazón, no
+Sabor a ti, reinando mi corazón.. oh-oh..
+Luces de neón por toda la ciudad
+El VIP esperando con champán, de verdad
+Pero mi mente solo viaja hacia tu cuerpo
+Viviendo rápido, sintiendo cada momento
+El bajo retumba, la pista se llena.. oh-yeah..
+Pero me falta el fuego de mi nena
+Sabor a ti, es lo que me domina
+Como un veneno lento que me fascina
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición
+Diamante' en el cuello, brillando tan frío
+Pero sin tu calor, me siento vacío
+El humo del hookah se pierde en el aire
+Tú ere' la reina de todo este baile
+La nota subiendo, la fiebre aumentando.. sube..
+Y yo por tu cuerpo sigo delirando
+Sabor a ti, es lo que me domina
+Como un veneno lento que me fascina
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición
+Pasando a cien en el lamborghini oscuro
+Conquistando el mundo, pisando seguro
+Pero la victoria no sabe igual, mi nena
+Si no tengo tus labio' quitándome la pena
+El ritmo se acelera, no hay vuelta atrá'.. no..
+Solo quiero que estés aquí, nada má'
+Sabor a ti, es lo que me domina
+Como un veneno lento que me fascina
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición
+Girl, your touch is all I need right now
+Let the rhythm take control somehow
+Sayed is craving every move you make
+I need your love before my heart breaks
+This late night drive feels so incomplete
+Without your rhythm and your heartbeat
+Come close to me and let the fire ignite
+Yours truly, Sayed, burning up the night
+Sabor a ti, es lo que me domina.. me domina..
+Como un veneno lento que me fascina.. eh..
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición (sabor a ti)"""
+with open("sabor-a-ti-private/lyric-raw.txt", "w") as f:
+f.write.. lyrics..
+Subproject commit 54b9471b96056879cbdfc6fa3ce4046b09e31a94
+Mami, la noche entera huele a ti.. yeah, yeah..
+Buscando en otra' boca' lo que perdí
+Pero ninguna tiene ese mismo sazón, no
+Sabor a ti, reinando mi corazón.. oh-oh..
+Luces de neón por toda la ciudad
+El VIP esperando con champán, de verdad
+Pero mi mente solo viaja hacia tu cuerpo
+Viviendo rápido, sintiendo cada momento
+El bajo retumba, la pista se llena.. oh-yeah..
+Pero me falta el fuego de mi nena
+Sabor a ti, es lo que me domina
+Como un veneno lento que me fascina
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición
+Diamante' en el cuello, brillando tan frío
+Pero sin tu calor, me siento vacío
+El humo del hookah se pierde en el aire
+Tú ere' la reina de todo este baile
+La nota subiendo, la fiebre aumentando.. sube..
+Y yo por tu cuerpo sigo delirando
+Sabor a ti, es lo que me domina
+Como un veneno lento que me fascina
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición
+Pasando a cien en el lamborghini oscuro
+Conquistando el mundo, pisando seguro
+Pero la victoria no sabe igual, mi nena
+Si no tengo tus labio' quitándome la pena
+El ritmo se acelera, no hay vuelta atrá'.. no..
+Solo quiero que estés aquí, nada má'
+Sabor a ti, es lo que me domina
+Como un veneno lento que me fascina
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición
+Girl, your touch is all I need right now
+Let the rhythm take control somehow
+Sayed is craving every move you make
+I need your love before my heart breaks
+This late night drive feels so incomplete
+Without your rhythm and your heartbeat
+Come close to me and let the fire ignite
+Yours truly, Sayed, burning up the night
+Sabor a ti, es lo que me domina.. me domina..
+Como un veneno lento que me fascina.. eh..
+No hay otra que baile con tanta pasión
+Sabor a ti, mi dulce perdición.. sabor a ti..
