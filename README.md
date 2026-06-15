@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sabor a ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-ti/) |
+| **Get License** | [Get License For Sabor a ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> lyrics = """
+> Mami, la noche entera huele a ti.. yeah, yeah..
+> Buscando en otra' boca' lo que perdí
+> Pero ninguna tiene ese mismo sazón, no
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
